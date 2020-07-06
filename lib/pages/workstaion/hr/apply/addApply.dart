@@ -124,6 +124,7 @@ class AddApplyState extends State<AddApply> {
       } else {
         Fluttertoast.showToast(msg: result["msg"]);
         return false;
+
       }
     });
   }
