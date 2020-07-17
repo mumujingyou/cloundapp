@@ -10,7 +10,9 @@ import 'package:fluro/fluro.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-const String address = "http://192.168.0.163:8080/";
+//const String address = "http://192.168.0.163:8080/";
+const String address = "http://cloud.piggogo.cn:8080/";
+//http://cloud.piggogo.cn:8080/api-u/agenda/list
 
 class API {
 
